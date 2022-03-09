@@ -1,0 +1,2 @@
+该文件就作为占位使用，使images文件夹非空!
+SpringMvc不加载空文件夹到target下，会引发FileNotFind异常!!!
